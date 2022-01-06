@@ -1,1 +1,1 @@
-# BRACU_CSE111-Programming_Language_II
+These are my Lab Assignment files with solution of Brac University's Computer Science & Engineering departmental core course CSE111 known as Programming Language II. Basially, this course taught object oriented programming. We complete the course by using Python. These Lab assignments are given during FAll'2020 Semester for the course work.
